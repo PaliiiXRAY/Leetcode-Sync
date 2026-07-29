@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
