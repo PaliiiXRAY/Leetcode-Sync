@@ -39,4 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0038-count-and-say) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Math
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
