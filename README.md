@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0056-merge-intervals) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0056-merge-intervals) |
+| [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
