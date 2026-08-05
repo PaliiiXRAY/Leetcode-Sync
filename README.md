@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0042-trapping-rain-water) |
+| [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0700-search-in-a-binary-search-tree) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0700-search-in-a-binary-search-tree) |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Lifting
 |  |
