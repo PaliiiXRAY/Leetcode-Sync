@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
