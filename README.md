@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0234-palindrome-linked-list) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
 | [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
