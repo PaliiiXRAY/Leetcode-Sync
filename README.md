@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2236-root-equals-sum-of-children) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2236-root-equals-sum-of-children) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
