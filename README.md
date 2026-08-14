@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0038-count-and-say) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -138,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
