@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
 | [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0225-implement-stack-using-queues) |
+| [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
 ## Monotonic Queue
 |  |
 | ------- |
