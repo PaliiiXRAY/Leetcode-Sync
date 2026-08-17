@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
+| [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0128-longest-consecutive-sequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
