@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
