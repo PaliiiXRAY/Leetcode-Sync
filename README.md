@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -212,4 +214,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
