@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
