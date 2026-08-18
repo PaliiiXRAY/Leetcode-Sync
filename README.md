@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0234-palindrome-linked-list) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
