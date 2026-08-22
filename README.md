@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
+| [0875-koko-eating-bananas](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0099-recover-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0875-koko-eating-bananas) |
 ## Binary Lifting
 |  |
 | ------- |
