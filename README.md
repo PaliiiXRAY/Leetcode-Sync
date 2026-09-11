@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0213-house-robber-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0213-house-robber-ii) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
