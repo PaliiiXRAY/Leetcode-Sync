@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0213-house-robber-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0063-unique-paths-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
