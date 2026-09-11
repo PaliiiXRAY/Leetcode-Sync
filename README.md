@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0213-house-robber-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
