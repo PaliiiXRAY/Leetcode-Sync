@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0875-koko-eating-bananas](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -268,11 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -285,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0416-partition-equal-subset-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
