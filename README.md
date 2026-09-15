@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0992-subarrays-with-k-different-integers) |
 ## Monotonic Stack
 |  |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
 ## Monotonic Queue
 |  |
@@ -297,4 +302,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
