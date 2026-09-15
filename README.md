@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0263-ugly-number) |
 | [0877-stone-game](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
