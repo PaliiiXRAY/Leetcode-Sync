@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0743-network-delay-time) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0743-network-delay-time) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0355-design-twitter) |
+| [0743-network-delay-time](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -317,4 +320,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/PaliiiXRAY/Leetcode-Sync/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
