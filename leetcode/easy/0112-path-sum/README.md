@@ -53,7 +53,7 @@ Explanation: Since the tree is empty, there are no root-to-leaf paths.
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
 **Memory:** 21.6 MB (beats 34.61%)  
-**Submitted:** 2026-10-06T21:07:55.064Z  
+**Submitted:** 2026-10-06T21:10:49.822Z  
 
 ```cpp
 /**
@@ -70,12 +70,15 @@ Explanation: Since the tree is empty, there are no root-to-leaf paths.
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if (root == NULL) return false;
-        if (root -> left == NULL && root->right == NULL ){
-            if (root->val == targetSum) return true;
-            else return false;
+        //bc
+        if(!root)return false;
+        if(!root->left && !root->right){
+            return targetSum==root->val;
+
         }
-      return hasPathSum(root->left, targetSum - root->val) || hasPathSum(root->right, targetSum - root->val);
+        // ramining
+        int remain=targetSum-root->val;
+        return hasPathSum(root->left,remain)||hasPathSum(root->right,remain);
     }
 };
 ```
