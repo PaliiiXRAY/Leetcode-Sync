@@ -54,9 +54,9 @@ Explanation: There is no cycle in the linked list.
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8 MB  
-**Submitted:** 2026-10-02T23:03:45.472Z  
+**Runtime:** 3 ms (beats 98.01%)  
+**Memory:** 11.4 MB (beats 21.23%)  
+**Submitted:** 2026-10-02T23:18:10.136Z  
 
 ```cpp
 /**
@@ -70,7 +70,7 @@ Explanation: There is no cycle in the linked list.
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if (head == nullptr || head->next == nullptr) return nullptr;
+    if (head == nullptr || head->next == nullptr) return nullptr;
         
         ListNode* slow = head;
         ListNode* fast = head;
@@ -80,12 +80,14 @@ public:
         
         // YOUR LOGIC HERE: 
         // Move fast by 2, slow by 1. 
+        while (fast != nullptr && fast->next != nullptr){
         fast = fast->next->next;
         slow = slow->next;
         // If they ever equal each other, set hasCycle = true and break the loop.
-        while (fast != slow) {
+            if(fast == slow){
             hasCycle = true;
             break;
+        }
         }
         
         // If fast reached the end of the list, there's no cycle
@@ -98,7 +100,7 @@ public:
         // YOUR LOGIC HERE:
         // 2. While slow != fast, move BOTH by exactly 1 step.
         while (slow != fast) {
-            fast = fast->next->next;
+            fast = fast->next;
             slow = slow->next;
         }
         
