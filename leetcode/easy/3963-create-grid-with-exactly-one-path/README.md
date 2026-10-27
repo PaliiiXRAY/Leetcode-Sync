@@ -60,19 +60,29 @@ The only valid path is: `(0,0) → (0,1) → (0,2) → (0,3)`
 ## Solution
 
 **Language:** C++  
-**Runtime:** 1 ms (beats 57.48%)  
-**Memory:** 11.1 MB (beats 56.46%)  
-**Submitted:** 2026-10-27T21:17:51.382Z  
+**Runtime:** 2 ms (beats 46.26%)  
+**Memory:** 11.1 MB (beats 73.47%)  
+**Submitted:** 2026-10-27T21:15:58.164Z  
 
 ```cpp
 class Solution {
 public:
-    vector<string> createGrid(int n, int m) {
-        vector<string> grid(n, string(m, '#'));
-        for (int i = 0; i < m; i++)
-            grid[0][i] = '.';
-        for (int i = 0; i < n; i++)
-            grid[i][m - 1] = '.';
+    vector<string> createGrid(int m, int n) {
+        vector<string> grid(m);
+
+        for (int i = 0; i < m; i++) {
+            string res = "";
+
+            for (int j = 0; j < n; j++) {
+                if (i == 0 || j == n - 1) {
+                    res += '.';
+                } else {
+                    res += '#';
+                }
+            }
+            grid[i] = res;
+        }
+
         return grid;
     }
 };
