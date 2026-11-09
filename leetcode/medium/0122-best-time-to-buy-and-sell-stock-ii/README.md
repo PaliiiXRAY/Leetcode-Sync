@@ -52,9 +52,9 @@ Explanation: There is no way to make a positive profit, so we never buy the stoc
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8.2 MB  
-**Submitted:** 2026-11-09T20:37:59.681Z  
+**Runtime:** 1 ms (beats 38.56%)  
+**Memory:** 20 MB (beats 77.25%)  
+**Submitted:** 2026-11-09T20:38:05.150Z  
 
 ```cpp
 class Solution {
